@@ -35,3 +35,13 @@ rm venv -Force
 ``` sh
 rm -rf venv
 ```
+
+To record the virtual environment dependencies
+``` sh
+pip freeze > requirements.txt
+```
+
+To install all dependencies recorded in requirements.txt:
+``` sh
+pip install -r requirements.txt
+```
