@@ -3,7 +3,7 @@
 ## 1. make a new branch
 ```git checkout -b fixBug```
 
-## 2. if there is no branch in remote, push the new branch to github
+## 2. if there is no branch in remote, push the new branch to github, the name after origin should be the same of the branch you are on.
 ```git push -u origin fixBug```
 
 ## 3. save all the changes 
