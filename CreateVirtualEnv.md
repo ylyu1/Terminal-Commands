@@ -9,7 +9,7 @@ python -m venv venv
 
 3. activate virtual environment
 
-* os window
+* on window
 ``` sh
 ./venv/Scripts/activate
 ```
