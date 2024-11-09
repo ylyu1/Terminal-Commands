@@ -6,6 +6,10 @@
 ``` sh
 python -m venv venv
 ```
+to specify the python version being used for the virtual environment, for example, to use python 3.12
+```sh
+python3.12 -m venv <virtual-environment-name>
+```
 
 3. activate virtual environment
 
