@@ -4,7 +4,7 @@
 2. create virtual environment
 
 ``` sh
-python -m venv venv
+python -m venv  <virtual-environment-name>
 ```
 to specify the python version being used for the virtual environment, for example, to use python 3.12
 ```sh
